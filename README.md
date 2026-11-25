@@ -59,3 +59,7 @@ stored or printed. The script talks only to the speaker.
 Tested against a simulated speaker. The read-only half (status and network scan) is also
 tested against a real JBL Link 500 on firmware 1.52. Sending Wi-Fi details to a real speaker
 has not been confirmed yet.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
