@@ -54,11 +54,6 @@ Google Home app should offer to add it to your home.
 The password is encrypted with the speaker's own public key before it is sent, and is never
 stored or printed. The script talks only to the speaker.
 
-## Status
-
-Tested against a simulated speaker. The read-only half (status and network scan) is also
-tested against a real JBL Link 500 on firmware 1.52. Sending Wi-Fi details to a real speaker
-has not been confirmed yet.
 
 ## Licence
 
